@@ -86,7 +86,7 @@ Here is the dashboard preview and you're able to filter through the years, selec
 
 Here is an example below, I selected france in december 2019 and you can see how the data changed in the sales by country and sum of quantity as well to reflect the selected filters.
 
-<img width="1413" height="715" alt="image" src="https://github.com/user-attachments/assets/4e253285-97d1-49d2-87ba-c0481871ff49" />
+<img width="1413" height="718" alt="image" src="https://github.com/user-attachments/assets/1100d59e-2c6e-49e6-ab09-21ff84e26e8f" />
 
 ## 🚀 Future Improvements
 
