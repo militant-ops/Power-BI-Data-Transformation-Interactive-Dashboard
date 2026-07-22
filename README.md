@@ -80,6 +80,14 @@ This project demonstrates my ability to:
 
 ## 🖼️ Dashboard Preview
 
+<img width="1410" height="723" alt="image" src="https://github.com/user-attachments/assets/d50ea75f-66a6-4ced-97de-377ac95d3281" />
+
+Here is the dashboard preview and you're able to filter through the years, select the regions and click on any of the months, countries or categories and the dashboard will show you the data related to what you chose.
+
+Here is an example below, I selected france in december 2019 and you can see how the data changed in the sales by country and sum of quantity as well to reflected the selected filters.
+
+<img width="1413" height="715" alt="image" src="https://github.com/user-attachments/assets/4e253285-97d1-49d2-87ba-c0481871ff49" />
+
 ## 🚀 Future Improvements
 
 Potential improvements to this project include:
