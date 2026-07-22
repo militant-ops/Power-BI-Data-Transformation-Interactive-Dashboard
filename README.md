@@ -43,12 +43,12 @@ A multi-page Power BI report was designed to analyse different aspects of the bu
 - Quantity sold
 - Overall business performance
   
-###4. Interactive Dashboard
+### 4. Interactive Dashboard
 
 - The final dashboard allows users to interact with the data using filters and selections.
 - Users can filter the report by factors such as year and region, with the visualisations automatically updating to reflect the selected criteria.
   
-##📊 Dashboard Features
+## 📊 Dashboard Features
 
 The overview dashboard includes:
 - Sales and profit margin trends by month
