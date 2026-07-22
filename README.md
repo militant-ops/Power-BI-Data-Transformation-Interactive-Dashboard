@@ -91,12 +91,9 @@ Here is an example below, I selected france in december 2019 and you can see how
 ## 🚀 Future Improvements
 
 Potential improvements to this project include:
-- Creating more advanced DAX measures and calculated columns
 - Adding further key performance indicators (KPIs)
-- Improving the data model using a star schema
 - Adding drill-through pages for more detailed analysis
 - Including additional time-based analysis to identify longer-term trends
-- Automating the data refresh process
 - Connecting the report to a live or regularly updated data source
 - Adding row-level security for different types of users
 - Improving the dashboard design based on user feedback and usability testing
