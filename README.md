@@ -35,6 +35,11 @@ This image is the power query editor and you can see me cleaning and transformin
 - Relationships were created between tables using common keys.
   
 - A structured data model was developed to connect the different datasets and allow information to be analysed across multiple business dimensions.
+
+<img width="1573" height="629" alt="image" src="https://github.com/user-attachments/assets/290c4f0e-e370-4a4c-9329-9af283774d47" />
+
+Here is the Image of the relationships that were created between the tables that connects datasets.
+
   
 ### 3. Report Development
 
