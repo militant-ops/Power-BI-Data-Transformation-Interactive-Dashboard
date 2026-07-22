@@ -26,6 +26,10 @@
 The Adventure Works datasets were prepared and transformed using Power Query Editor.
 The data was cleaned and structured to make it suitable for analysis and visualisation within Power BI.
 
+<img width="561" height="433" alt="Screenshot 2026-07-22 at 20 54 12" src="https://github.com/user-attachments/assets/3c39f455-bc15-4af4-89c9-51d70a8ccabc" />
+
+This image is the power query editor and you can see me cleaning and transforming the data
+
 ### 2. Data Modelling
 
 - Relationships were created between tables using common keys.
