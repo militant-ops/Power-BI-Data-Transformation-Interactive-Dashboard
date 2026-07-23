@@ -1,6 +1,6 @@
 # Power-BI-Data-Transformation-Interactive-Dashboard
 
-## 📌 Overview
+## Overview
 
 - This project uses Power BI to transform, model, analyse, and visualise Adventure Works sales data.
 
@@ -8,7 +8,7 @@
   
 - The final report is an interactive dashboard that allows users to explore sales performance, profit margins, product categories, countries, regions, and other key business metrics through filters and selections.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI
 - Power Query Editor
@@ -19,7 +19,7 @@
 - Interactive Data Visualisation
 - Dashboard Design
   
-## 🔄 Project Workflow
+## Project Workflow
 
 ### 1. Data Cleaning and Transformation
 
@@ -57,7 +57,7 @@ A multi-page Power BI report was designed to analyse different aspects of the bu
 - The final dashboard allows users to interact with the data using filters and selections.
 - Users can filter the report by factors such as year and region, with the visualisations automatically updating to reflect the selected criteria.
   
-## 📊 Dashboard Features
+## Dashboard Features
 
 The overview dashboard includes:
 - Sales and profit margin trends by month
@@ -67,7 +67,7 @@ The overview dashboard includes:
 - Regional filters
 - Interactive visualisations that update dynamically based on user selections
   
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 This project demonstrates my ability to:
 - Clean and transform raw data using Power Query Editor
 - Connect datasets using keys and relationships
@@ -78,7 +78,7 @@ This project demonstrates my ability to:
 - Present business insights through data visualisation
 - Develop user-friendly reports for data exploration and decision-making
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 <img width="1410" height="723" alt="image" src="https://github.com/user-attachments/assets/d50ea75f-66a6-4ced-97de-377ac95d3281" />
 
@@ -88,7 +88,7 @@ Here is an example below, I selected france in december 2019 and you can see how
 
 <img width="1413" height="718" alt="image" src="https://github.com/user-attachments/assets/1100d59e-2c6e-49e6-ab09-21ff84e26e8f" />
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential improvements to this project include:
 - Adding further key performance indicators (KPIs)
